@@ -1,0 +1,14 @@
+C:\Users\Pratik\AppData\Local\Temporary Projects\ReportsApplication1\bin\x86\Debug\ReportsApplication1.exe.config
+C:\Users\Pratik\AppData\Local\Temporary Projects\ReportsApplication1\bin\x86\Debug\ReportsApplication1.exe
+C:\Users\Pratik\AppData\Local\Temporary Projects\ReportsApplication1\bin\x86\Debug\ReportsApplication1.pdb
+C:\Users\Pratik\AppData\Local\Temporary Projects\ReportsApplication1\bin\x86\Debug\ReportsApplication1.xml
+C:\Users\Pratik\AppData\Local\Temporary Projects\ReportsApplication1\obj\x86\Debug\ReportsApplication1.Form1.resources
+C:\Users\Pratik\AppData\Local\Temporary Projects\ReportsApplication1\obj\x86\Debug\ReportsApplication1.Resources.resources
+C:\Users\Pratik\AppData\Local\Temporary Projects\ReportsApplication1\obj\x86\Debug\ReportsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Pratik\AppData\Local\Temporary Projects\ReportsApplication1\obj\x86\Debug\RdlCompile.cache
+C:\Users\Pratik\AppData\Local\Temporary Projects\ReportsApplication1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Pratik\AppData\Local\Temporary Projects\ReportsApplication1\obj\x86\Debug\ReportsApplication1.exe
+C:\Users\Pratik\AppData\Local\Temporary Projects\ReportsApplication1\obj\x86\Debug\ReportsApplication1.xml
+C:\Users\Pratik\AppData\Local\Temporary Projects\ReportsApplication1\obj\x86\Debug\ReportsApplication1.pdb
+C:\Users\Pratik\AppData\Local\Temporary Projects\ReportsApplication1\obj\x86\Debug\ReportsApplication1.Form2.resources
+C:\Users\Pratik\AppData\Local\Temporary Projects\ReportsApplication1\obj\x86\Debug\ReportsApplication1.Form3.resources

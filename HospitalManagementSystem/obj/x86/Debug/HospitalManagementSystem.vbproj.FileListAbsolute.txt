@@ -1,0 +1,15 @@
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\bin\x86\Debug\HospitalManagementSystem.exe.config
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\bin\x86\Debug\HospitalManagementSystem.exe
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\bin\x86\Debug\HospitalManagementSystem.pdb
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\bin\x86\Debug\HospitalManagementSystem.xml
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.vbprojResolveAssemblyReference.cache
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\ReportsApplication1.Form2.resources
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\ReportsApplication1.Form3.resources
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\ReportsApplication1.Form1.resources
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\ReportsApplication1.Resources.resources
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.vbproj.GenerateResource.Cache
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\RdlCompile.cache
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\RdlCompile.compiled
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.exe
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.xml
+G:\Subjects\Sem 5\System Analysis and Design\Project\Hospital Management System\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.pdb
